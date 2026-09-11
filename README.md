@@ -1,6 +1,6 @@
 # Wagner Freitas
 
-**Arquiteto de soluções | Integrações Oracle Fusion & OIC | IA Generativa aplicada a processos corporativos**
+**Arquiteto de soluções | Integrações Oracle Fusion & OIC | IA Generativa (Google Cloud, Azure, AWS) aplicada a processos corporativos**
 
 Consultor de tecnologia na WAM Consultoria, com foco em automação orientada por IA, integrações corporativas e arquitetura de sistemas com LLMs. Construo soluções que conectam ERPs (Oracle Fusion Cloud), filas, APIs e agentes de IA para eliminar trabalho manual em processos de negócio — compras, financeiro, RH e atendimento.
 
@@ -12,7 +12,9 @@ Consultor de tecnologia na WAM Consultoria, com foco em automação orientada po
 | **IA Generativa** | RAG multi-domínio, Oracle ADB AI Vector Search, Anthropic Claude, OpenAI, Google Gemini, Azure OpenAI, agentes com tool-use |
 | **Integração & Mensageria** | RabbitMQ, n8n, REST APIs, WhatsApp Business API (Meta Graph API, Evolution API) |
 | **Linguagens & Frameworks** | Python, TypeScript/NestJS, Flutter/Dart, SQL |
-| **Infra** | Docker, PostgreSQL, Redis, observabilidade (logs estruturados, métricas, health checks) |
+| **Google Cloud** | Vertex AI (Gemini, embeddings, agentes), BigQuery, AlloyDB, Cloud Functions, Cloud Storage, Google Analytics |
+| **AWS & Azure** | AWS (Lambda/SAM, S3, IAM), Azure OpenAI e serviços de IA dentro do tenant do cliente |
+| **Infra** | Docker, PostgreSQL, Redis, Firebase, observabilidade (logs estruturados, métricas, health checks) |
 
 ## Projetos em destaque
 
@@ -30,6 +32,7 @@ Consultor de tecnologia na WAM Consultoria, com foco em automação orientada po
 - **RAG e agentes de IA** — arquiteturas multi-domínio sobre Oracle ADB com Vector Search, avaliação de retrieval, observabilidade de LLMs
 - **Automação de processos** — fluxos event-driven com RabbitMQ e n8n; onboarding de colaboradores, atendimento via WhatsApp
 - **Arquitetura de soluções** — desenho, PoC e entrega de integrações corporativas de ponta a ponta
+- **Dados e IA em nuvem** — pipelines analíticos com BigQuery e AlloyDB, modelos e agentes no Vertex AI, serverless com Cloud Functions/Lambda, multicloud GCP · Azure · AWS
 
 ## Contato
 
