@@ -19,10 +19,10 @@ Consultor de tecnologia na WAM Consultoria, com foco em automação orientada po
 | Projeto | O que é | Stack |
 |---|---|---|
 | [**bildPurchase**](https://github.com/wagfreitas/bildPurchase) | API que cria, valida e submete Requisições de Compra no Oracle Fusion via REST, substituindo um RPA. Lookup de organizações, DFFs, combinação contábil, idempotência e processamento em lote. | NestJS, Oracle Fusion REST, PostgreSQL, Redis/BullMQ |
-| [**Xfactor**](https://github.com/Agro-one/Xfactor) | Plataforma de RH conversacional: colaboradores interagem com agentes de IA para consultar políticas e benefícios, agendar férias e alterar dados cadastrais — sem intervenção manual da equipe de RH. | LLM agents, RAG, integração com sistemas de RH |
-| [**neves-capital**](https://github.com/wagfreitas/neves-capital) | App de vendas para pequenos comerciantes desenvolvido para um FIDC: transforma o celular em maquininha de débito e crédito. | Mobile, APIs de pagamento |
-| [**CrmInvet**](https://github.com/wagfreitas/CrmInvet) | Sistema completo para clínicas médicas: agendamento, registro de consultas, receituário e contabilidade da clínica. | Full-stack |
-| [**hcmx-app**](https://github.com/wagfreitas/hcmx-app) | Aplicação de registro de ponto eletrônico em conformidade com a Portaria 671 (MTP), com registro no INPI. | Mobile/Web, compliance trabalhista |
+| [**Xfactor**](https://github.com/Agro-one/Xfactor) | Portal de RH conversacional via WhatsApp: agentes de IA (RAG) respondem políticas e benefícios, agendam férias e alteram dados; motor de gatilhos por eventos, integração SAP SuccessFactors, workers OCR/ASR. | Node/TypeScript DDD, RabbitMQ, SQL Server, Meta Cloud API, LLM/RAG, Python |
+| [**nevescapital**](https://github.com/wagfreitas/nevescapital) | POS digital para pequenos comerciantes, desenvolvido para um FIDC: o celular vira maquininha de cartão e PIX, com biometria e OTP. | Flutter, NestJS, Firebase, Efí Pay |
+| [**CrmInvest**](https://github.com/wagfreitas/CrmInvest) | SaaS multi-tenant para clínicas: agenda, prontuário, receituário, teleconsulta, financeiro e CRM de captação com WhatsApp/Meta Ads. Em produção com CI/CD. | React, Node/Express, Supabase, Stripe, Twilio, LiveKit |
+| [**hcmx-app**](https://github.com/wagfreitas/hcmx-app) | Registro de ponto eletrônico (REP-P) conforme Portaria MTP 671/2021, registrado no INPI: NSR, hash SHA-256, NTP, geolocalização, AFD/AEJ, anti-fraude, integração SAP. | Flutter, Firebase, Cloud Functions |
 
 ## Áreas de atuação
 
